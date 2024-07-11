@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Goutham S P</h1>
 <h3 align="center">An Aspiring Data Science student.</h3>
 
-- 🌱 I’m currently learning **PYTHON AND C++**
+- 🌱 I’m currently learning **PYTHON AND JAVA**
 
 - 📫 How to reach me **gou05sarav@gmail.com**
 
