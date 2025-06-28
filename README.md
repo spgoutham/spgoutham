@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Goutham S P</h1>
-<h3 align="center">An Aspiring Data Science student.</h3>
+<h1 align="center">Hello 👋, I'm Goutham</h1>
+<h3 align="center">Tech Enthusiast & Problem Solver</h3>
 
-- 🌱 I’m currently learning **JAVA**
 
-- 📫 How to reach me **gou05sarav@gmail.com**
+
+- 📫 How to reach me **gouthamsp0305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
